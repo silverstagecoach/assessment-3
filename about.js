@@ -11,7 +11,7 @@ function handleSubmit(evt) {
 function giveCompliment(evt) {
 	evt.preventDefault();
 
-	alert('You are a compitent member of our society. Thank you!')
+	alert('You are a compitent member of our society. How wonderful!')
 }
 
 let form = document.querySelector('#contact');
