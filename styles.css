@@ -15,6 +15,13 @@ ol {
 	padding-left: 0;
 }
 
+.butterinos{
+	font-size: large;
+	background-color: orangered;
+	border-color: silver;
+	box-shadow: 2px, 2px, 2px;11
+}
+
 .crumb {
 	margin-right: 2em;
 	display: inline;
@@ -25,7 +32,7 @@ a {
 }
 
 a:visited {
-	color: crimson;
+	color: purple;
 }
 
 
